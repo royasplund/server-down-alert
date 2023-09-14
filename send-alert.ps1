@@ -48,4 +48,3 @@ if (!$connected) {
     $smtp.Send($email)
 }
 
-Sent with Proton Mail secure email.
